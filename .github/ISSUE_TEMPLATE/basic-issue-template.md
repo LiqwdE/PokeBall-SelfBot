@@ -10,10 +10,14 @@ about: The way the Issues are expected to be formatted,
 # Body:
 
 ## Problem:
-Here, write up a brief description about the error you are facing.
+2 problems. 1 I cant contact you on discord, it cant find you. So I cant donate.
+2. I copy my token from developer portal, but run.bat throws an imporer token error. I go back to check token and its different.
 
 ## Steps to Reproduce:
-List out the steps you took to come upon the error.
+Edit config.json
+insert token
+throws error in run.bat
+check token and its different
 
 ## config.json:
 Most of the problems arise due to badly edited config.json. Hence post the contents of it within codeblocks. (Select the contents here and press code button on top.)
@@ -24,5 +28,8 @@ Post relevant screenshots.
 
 ## Specs.
 **OS**:
+windows
 **Bot Version**:
+just downloaded, so most current
 **Python Version**:
+3.6
